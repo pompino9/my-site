@@ -1,7 +1,7 @@
 .version.send /* version checker */
 {
-	color: #0000FA;
-	background-color: #9B0D85;
+	color: #0000ED;
+	background-color: #9DAED7;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 542.9500000000008px;
+	min-height: 547.9500000000008px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -48,8 +48,8 @@
 
 #page_position_content
 {
-	margin-top: -74px;
-	margin-bottom: -21px;
+	margin-top: -69px;
+	margin-bottom: -16px;
 	width: 0.01px;
 }
 
@@ -59,7 +59,7 @@
 	width: 150px;
 	height: 83px;
 	margin-left: 220px;
-	margin-top: 82px;
+	margin-top: 77px;
 }
 
 #u767-6
@@ -83,7 +83,7 @@
 #pu844
 {
 	width: 0.01px;
-	margin-top: -329px;
+	margin-top: -324px;
 }
 
 #u844
@@ -92,7 +92,7 @@
 	width: 94px;
 	height: 97px;
 	margin-right: -10000px;
-	margin-top: 536px;
+	margin-top: 531px;
 	left: 124px;
 }
 
@@ -102,7 +102,7 @@
 	width: 68px;
 	height: 82px;
 	margin-right: -10000px;
-	margin-top: 551px;
+	margin-top: 546px;
 	left: 213px;
 }
 
@@ -112,7 +112,7 @@
 	width: 122px;
 	height: 102px;
 	margin-right: -10000px;
-	margin-top: 536px;
+	margin-top: 531px;
 	left: 21px;
 }
 
@@ -122,7 +122,7 @@
 	width: 83px;
 	height: 72px;
 	margin-right: -10000px;
-	margin-top: 542px;
+	margin-top: 537px;
 	left: 291px;
 }
 
@@ -130,7 +130,7 @@
 {
 	z-index: 7;
 	height: 500px;
-	background: transparent url("../images/%d0%bf%d0%be%d0%bb%d0%be%d1%81%d0%ba%d0%b0.jpg") no-repeat left top;
+	background: transparent url("../images/polosa.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -144,7 +144,7 @@
 {
 	z-index: 8;
 	height: 267px;
-	background: transparent url("../images/%d1%81%d0%be%d0%b1%d0%b0%d0%ba.jpg") no-repeat left top;
+	background: transparent url("../images/dog.jpg") no-repeat left top;
 	background-size: cover;
 }
 
@@ -159,6 +159,7 @@ body
 {
 	position: relative;
 	min-width: 380px;
+	padding-bottom: 10px;
 }
 
 #page .verticalspacer

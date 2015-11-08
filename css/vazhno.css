@@ -1,7 +1,7 @@
 .version.vazhno /* version checker */
 {
-	color: #0000F2;
-	background-color: #B0E12B;
+	color: #000011;
+	background-color: #435F7A;
 }
 
 @-ms-viewport
@@ -496,7 +496,7 @@
 	margin-right: -10000px;
 	margin-top: 278px;
 	left: 45px;
-	background: transparent url("../images/%d0%ba%d0%bb%d0%b5%d1%89.jpg") no-repeat center top;
+	background: transparent url("../images/klech.jpg") no-repeat center top;
 	background-size: cover;
 }
 
@@ -688,7 +688,7 @@
 	margin-right: -10000px;
 	margin-top: 797px;
 	left: 145px;
-	background: transparent url("../images/%d0%b4%d0%b5%d0%bc%d0%b0%d0%b4%d0%b5%d0%ba.jpg") no-repeat left top;
+	background: transparent url("../images/demax.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -700,7 +700,7 @@
 #pu844
 {
 	width: 0.01px;
-	margin: 5166px -10000px -20px 21px;
+	margin: 5166px -10000px -15px 21px;
 }
 
 #u844

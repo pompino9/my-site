@@ -1,7 +1,7 @@
 .version.price /* version checker */
 {
-	color: #0000FB;
-	background-color: #DC95FC;
+	color: #0000FD;
+	background-color: #96B6FE;
 }
 
 @-ms-viewport
@@ -47,7 +47,7 @@
 
 #page_position_content
 {
-	margin-bottom: -21px;
+	margin-bottom: -16px;
 	padding-top: 8px;
 	width: 0.01px;
 }
@@ -164,7 +164,7 @@
 	z-index: 449;
 	width: 47px;
 	min-height: 27px;
-	background-color: transparent;
+	background-color: #68FF2A;
 	font-size: 10px;
 	line-height: 12px;
 	font-weight: bold;
@@ -178,7 +178,7 @@
 	z-index: 454;
 	width: 43px;
 	min-height: 31px;
-	background-color: transparent;
+	background-color: #68FF2A;
 	font-size: 10px;
 	line-height: 12px;
 	font-weight: bold;
@@ -193,7 +193,7 @@
 	z-index: 459;
 	width: 48px;
 	min-height: 29px;
-	background-color: transparent;
+	background-color: #68FF2A;
 	font-size: 10px;
 	line-height: 12px;
 	font-weight: bold;
@@ -590,7 +590,7 @@
 {
 	width: 0.01px;
 	margin-left: 21px;
-	margin-top: 53px;
+	margin-top: 48px;
 }
 
 #u844

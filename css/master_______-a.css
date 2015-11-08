@@ -1,7 +1,7 @@
 #u1662
 {
 	position: relative;
-	background: transparent url("../images/%d0%bb%d0%be%d0%b3%d0%be.jpg") no-repeat left top;
+	background: transparent url("../images/logotip.jpg") no-repeat left top;
 	background-size: contain;
 }
 
@@ -15,7 +15,7 @@
 #u858
 {
 	position: relative;
-	background: transparent url("../images/%d0%bf%d0%be%d1%87%d1%82%d0%b0.png") no-repeat left top;
+	background: transparent url("../images/mail.png") no-repeat left top;
 	background-size: contain;
 }
 

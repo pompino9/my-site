@@ -1,7 +1,7 @@
 .version.on_line /* version checker */
 {
-	color: #00001E;
-	background-color: #D98448;
+	color: #000011;
+	background-color: #3E3C6F;
 }
 
 @-ms-viewport
@@ -33,7 +33,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 543px;
+	min-height: 548px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -775,7 +775,7 @@
 #pu844
 {
 	width: 0.01px;
-	margin: 479px -10000px -21px 21px;
+	margin: 479px -10000px -16px 21px;
 }
 
 #u844
@@ -819,6 +819,7 @@ body
 {
 	position: relative;
 	min-width: 380px;
+	padding-bottom: 10px;
 }
 
 #page .verticalspacer

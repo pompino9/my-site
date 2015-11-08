@@ -1,7 +1,7 @@
 .version.contacts /* version checker */
 {
-	color: #00000C;
-	background-color: #C95CEF;
+	color: #000010;
+	background-color: #99B02B;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 542.9999999999999px;
+	min-height: 547.9999999999999px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -48,7 +48,7 @@
 
 #page_position_content
 {
-	margin-bottom: -21px;
+	margin-bottom: -16px;
 	padding-top: 8px;
 	width: 0.01px;
 }
@@ -227,6 +227,7 @@ body
 {
 	position: relative;
 	min-width: 380px;
+	padding-bottom: 10px;
 }
 
 #page .verticalspacer

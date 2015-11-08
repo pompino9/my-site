@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447006419621">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447010939739">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_______-a.css" crc="4290275413" ref="contacts:send:index:price:vazhno:on-line:photo:about-us"/>
-    <file name="contacts.css" crc="214523119" ref="contacts"/>
-    <file name="send.css" crc="4204465541" ref="send"/>
-    <file name="index.css" crc="470737491" ref="index"/>
-    <file name="price.css" crc="4225537532" ref="price"/>
-    <file name="vazhno.css" crc="4071678251" ref="vazhno"/>
-    <file name="on-line.css" crc="517571656" ref="on-line"/>
-    <file name="photo.css" crc="185794777" ref="photo"/>
-    <file name="about-us.css" crc="4211347714" ref="about-us"/>
+    <file name="master_______-a.css" crc="523605306" ref="contacts:send:index:price:vazhno:on-line:photo:about-us"/>
+    <file name="contacts.css" crc="278507563" ref="contacts"/>
+    <file name="send.css" crc="3986534103" ref="send"/>
+    <file name="index.css" crc="3975483601" ref="index"/>
+    <file name="price.css" crc="4254512894" ref="price"/>
+    <file name="vazhno.css" crc="289628026" ref="vazhno"/>
+    <file name="on-line.css" crc="289291375" ref="on-line"/>
+    <file name="photo.css" crc="113259065" ref="photo"/>
+    <file name="about-us.css" crc="4201625251" ref="about-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:price:on-line:vazhno:send:contacts:photo"/>
@@ -28,76 +28,74 @@
     <file name="musewpdisclosure.js" crc="3993616448" ref="vazhno"/>
   </folder>
   <folder name="images">
-    <file name="лого.jpg" crc="3867142660" ref="index:about-us"/>
+    <file name="logotip.jpg" crc="3821073458" ref="index:about-us"/>
     <file name="1236.jpg" crc="4037932235" ref="index"/>
     <file name="vkontaktef-blocking.jpg" crc="3967790209" ref="index"/>
-    <file name="почта.png" crc="3851107590" ref="index"/>
+    <file name="mail.png" crc="3851107590" ref="index"/>
     <file name="icon-contakti.png" crc="4058716964" ref="index"/>
     <file name="w256h2561339870780ie.png" crc="514775783" ref="index"/>
-    <file name="снимок.jpg" crc="4155421749" seo="true" ref="about-us"/>
+    <file name="director.jpg" crc="4196531324" seo="true" ref="about-us"/>
     <file name="petuhova.jpg" crc="4254907911" seo="true" ref="about-us"/>
     <file name="timakina.jpg" crc="4094386616" seo="true" ref="about-us"/>
     <file name="grineva.jpg" crc="173519604" seo="true" ref="about-us"/>
     <file name="orlova.jpg" crc="374604258" seo="true" ref="about-us"/>
     <file name="esinovskaya.jpg" crc="3925444358" seo="true" ref="about-us"/>
     <file name="forshakova.jpg" crc="369662972" seo="true" ref="about-us"/>
-    <file name="я.jpg" crc="4293767724" seo="true" ref="about-us"/>
-    <file name="снимок2.jpg" crc="4052289267" ref="about-us"/>
+    <file name="iam.jpg" crc="4293767724" seo="true" ref="about-us"/>
+    <file name="dog2.jpg" crc="4052289267" ref="about-us"/>
     <file name="u600-17.png" crc="36499994" ref="on-line"/>
     <file name="u600-17-r.png" crc="4200762553" ref="on-line"/>
     <file name="u600-17-m.png" crc="480319329" ref="on-line"/>
     <file name="u600-17-fs.png" crc="241018162" ref="on-line"/>
-    <file name="клещ.jpg" crc="3922156627" ref="vazhno"/>
+    <file name="klech.jpg" crc="3922156627" ref="vazhno"/>
     <file name="23948933.jpg" crc="3890911753" ref="vazhno"/>
     <file name="s67504971.jpg" crc="3786326937" ref="vazhno"/>
     <file name="48271788.jpg" crc="455967684" ref="vazhno"/>
-    <file name="демадек.jpg" crc="3840680270" ref="vazhno"/>
-    <file name="полоска.jpg" crc="68576087" ref="send"/>
-    <file name="собак.jpg" crc="14585311" ref="send"/>
+    <file name="demax.jpg" crc="3840680270" ref="vazhno"/>
+    <file name="polosa.jpg" crc="68576087" ref="send"/>
+    <file name="dog.jpg" crc="14585311" ref="send"/>
     <file name="-hxg6llf72y.jpg" crc="4127077646" seo="true" ref="photo"/>
     <file name="blank.gif" crc="4208392903" ref="photo"/>
     <file name="pdpm-kkpm10.jpg" crc="3945942315" seo="true" ref="photo"/>
-    <file name="элла креатив.jpg" crc="404841288" seo="true" ref="photo"/>
-    <file name="шпиц4.jpg" crc="533116974" seo="true" ref="photo"/>
-    <file name="шпиц3.jpg" crc="3949181940" seo="true" ref="photo"/>
-    <file name="шпиц.jpg" crc="319337903" seo="true" ref="photo"/>
-    <file name="шитсу.jpg" crc="4006685767" seo="true" ref="photo"/>
-    <file name="цверг2.jpg" crc="4199218809" seo="true" ref="photo"/>
-    <file name="фокс.jpg" crc="487877033" seo="true" ref="photo"/>
-    <file name="такса2.jpg" crc="452383569" seo="true" ref="photo"/>
-    <file name="спаниель4.jpg" crc="3784296563" seo="true" ref="photo"/>
-    <file name="спаниель3.jpg" crc="3804721899" seo="true" ref="photo"/>
-    <file name="спаниель2.jpg" crc="153926872" seo="true" ref="photo"/>
-    <file name="пудель континенталь.jpg" crc="4123257758" seo="true" ref="photo"/>
-    <file name="кошка2.jpg" crc="4150263058" seo="true" ref="photo"/>
-    <file name="креатив6.jpg" crc="401092187" seo="true" ref="photo"/>
-    <file name="йорк53.jpg" crc="387706139" seo="true" ref="photo"/>
-    <file name="йорк48.jpg" crc="3878187166" seo="true" ref="photo"/>
-    <file name="йорк47анаб.jpg" crc="4147732831" seo="true" ref="photo"/>
-    <file name="йорк39.jpg" crc="3774247871" seo="true" ref="photo"/>
-    <file name="йорк38.jpg" crc="190928157" seo="true" ref="photo"/>
-    <file name="йорк29.jpg" crc="498759167" seo="true" ref="photo"/>
-    <file name="йорк24.jpg" crc="193762295" seo="true" ref="photo"/>
-    <file name="йорк10238x284.jpg" crc="507807997" seo="true" ref="photo"/>
-    <file name="зубы.jpg" crc="137518116" seo="true" ref="photo"/>
+    <file name="kat3.jpg" crc="311962832" seo="true" ref="photo"/>
+    <file name="chpiz4.jpg" crc="4047430368" seo="true" ref="photo"/>
+    <file name="chpiz3.jpg" crc="204704952" seo="true" ref="photo"/>
+    <file name="chpiz.jpg" crc="4015059616" seo="true" ref="photo"/>
+    <file name="chi.jpg" crc="4233649102" seo="true" ref="photo"/>
+    <file name="zhverg.jpg" crc="3783690596" seo="true" ref="photo"/>
+    <file name="fox.jpg" crc="183682814" seo="true" ref="photo"/>
+    <file name="taksa2.jpg" crc="394218136" seo="true" ref="photo"/>
+    <file name="shpanel4.jpg" crc="475802731" seo="true" ref="photo"/>
+    <file name="shpanel3.jpg" crc="115361654" seo="true" ref="photo"/>
+    <file name="shpanel.jpg" crc="3953308127" seo="true" ref="photo"/>
+    <file name="pudel.jpg" crc="168809744" seo="true" ref="photo"/>
+    <file name="kat2.jpg" crc="3798362703" seo="true" ref="photo"/>
+    <file name="kat6.jpg" crc="288911537" seo="true" ref="photo"/>
+    <file name="yo53.jpg" crc="160866787" seo="true" ref="photo"/>
+    <file name="yo48.jpg" crc="380562290" seo="true" ref="photo"/>
+    <file name="yo47.jpg" crc="480871872" seo="true" ref="photo"/>
+    <file name="yo39.jpg" crc="3843123213" seo="true" ref="photo"/>
+    <file name="yo38.jpg" crc="305459366" seo="true" ref="photo"/>
+    <file name="yo29.jpg" crc="3920569684" seo="true" ref="photo"/>
+    <file name="yo24.jpg" crc="3775957855" seo="true" ref="photo"/>
+    <file name="yo10.jpg" crc="4242469381" seo="true" ref="photo"/>
+    <file name="zub.jpg" crc="3882093173" seo="true" ref="photo"/>
     <file name="5yh4_ytxztk.jpg" crc="507778848" seo="true" ref="photo"/>
-    <file name="йорк9.jpg" crc="4114707093" seo="true" ref="photo"/>
-    <file name="грифон.jpg" crc="382068889" seo="true" ref="photo"/>
-    <file name="йорк10.jpg" crc="3891237037" ref="photo"/>
+    <file name="yo.jpg" crc="480736708" seo="true" ref="photo"/>
+    <file name="grifon.jpg" crc="266523657" seo="true" ref="photo"/>
     <file name="-hxg6llf72y60x45.jpg" crc="3979622559" seo="true" ref="photo"/>
     <file name="pdpm-kkpm1045x45.jpg" crc="3778101885" seo="true" ref="photo"/>
-    <file name="спаниель245x45.jpg" crc="318259420" seo="true" ref="photo"/>
-    <file name="кошка262x45.jpg" crc="68580324" seo="true" ref="photo"/>
-    <file name="креатив654x45.jpg" crc="139883271" seo="true" ref="photo"/>
-    <file name="йорк1038x45.jpg" crc="4185788390" seo="true" ref="photo"/>
+    <file name="shpanel45x45.jpg" crc="4217596157" seo="true" ref="photo"/>
+    <file name="kat262x45.jpg" crc="3849877034" seo="true" ref="photo"/>
+    <file name="kat654x45.jpg" crc="4204108489" seo="true" ref="photo"/>
     <file name="loading.gif" crc="3815509949" ref="photo"/>
   </folder>
-  <file name="index.html" crc="81882106" seo="true" mt="1447006416587" redirect="true"/>
-  <file name="about-us.html" crc="13908067" seo="true" mt="1447006416587" redirect="true"/>
-  <file name="price.html" crc="263067705" seo="true" mt="1447006416587" redirect="true"/>
-  <file name="on-line.html" crc="9980513" seo="true" mt="1447006416587" redirect="true"/>
-  <file name="vazhno.html" crc="4086714678" seo="true" mt="1447006416587" redirect="true"/>
-  <file name="send.html" crc="3842056046" seo="true" mt="1447006416587" redirect="true"/>
-  <file name="contacts.html" crc="4166055412" seo="true" mt="1447006416587" redirect="true"/>
-  <file name="photo.html" crc="3971944637" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="index.html" crc="81882106" seo="true" mt="1447010936498" redirect="true"/>
+  <file name="about-us.html" crc="389709182" seo="true" mt="1447010936517" redirect="true"/>
+  <file name="price.html" crc="263067705" seo="true" mt="1447010936498" redirect="true"/>
+  <file name="on-line.html" crc="9980513" seo="true" mt="1447010936498" redirect="true"/>
+  <file name="vazhno.html" crc="4086714678" seo="true" mt="1447010936498" redirect="true"/>
+  <file name="send.html" crc="3842056046" seo="true" mt="1447010936498" redirect="true"/>
+  <file name="contacts.html" crc="4166055412" seo="true" mt="1447010936498" redirect="true"/>
+  <file name="photo.html" crc="4032919911" seo="true" mt="1447010936498" redirect="true"/>
 </manifest>
