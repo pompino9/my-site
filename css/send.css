@@ -1,32 +1,32 @@
 .version.send /* version checker */
 {
-	color: #0000ED;
-	background-color: #9DAED7;
+	color: #0000EC;
+	background-color: #26F0D5;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 1920px;
 	min-height: 547.9500000000008px;
 	background-image: none;
 	border-style: none;
@@ -69,10 +69,10 @@
 	min-height: 105px;
 	background-color: transparent;
 	border-radius: 10px 10px 0px 10px ;
-	color: #FF3E18;
-	font-size: 24px;
-	text-align: center;
 	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FF3E18;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	margin-left: 39px;
@@ -158,7 +158,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 1920px;
 	padding-bottom: 10px;
 }
 

@@ -1,32 +1,32 @@
 .version.price /* version checker */
 {
-	color: #0000FD;
-	background-color: #96B6FE;
+	color: #000006;
+	background-color: #16DE3A;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 1920px;
 	min-height: 1207px;
 	background-image: none;
 	border-style: none;
@@ -134,8 +134,8 @@
 	width: 46px;
 	min-height: 43px;
 	background-color: #68FF2A;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -165,8 +165,8 @@
 	width: 47px;
 	min-height: 27px;
 	background-color: #68FF2A;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -179,8 +179,8 @@
 	width: 43px;
 	min-height: 31px;
 	background-color: #68FF2A;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -194,8 +194,8 @@
 	width: 48px;
 	min-height: 29px;
 	background-color: #68FF2A;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -239,9 +239,9 @@
 	z-index: 14;
 	width: 198px;
 	background-color: transparent;
-	font-size: 10px;
-	text-align: center;
 	line-height: 12px;
+	text-align: center;
+	font-size: 10px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	position: relative;
 	margin-right: -10000px;
@@ -367,8 +367,8 @@
 	width: 46px;
 	min-height: 576px;
 	background-color: transparent;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	position: relative;
 	margin-right: -10000px;
@@ -380,8 +380,8 @@
 	z-index: 199;
 	width: 46px;
 	background-color: transparent;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	position: relative;
 	margin-right: -10000px;
@@ -393,8 +393,8 @@
 	z-index: 272;
 	width: 45px;
 	background-color: transparent;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	position: relative;
 	margin-right: -10000px;
@@ -406,8 +406,8 @@
 	z-index: 348;
 	width: 46px;
 	background-color: transparent;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	position: relative;
 	margin-right: -10000px;
@@ -426,8 +426,8 @@
 	z-index: 464;
 	width: 200px;
 	background-color: transparent;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	position: relative;
 	margin-right: -10000px;
@@ -462,8 +462,8 @@
 	width: 359px;
 	min-height: 26px;
 	background-color: transparent;
-	font-size: 11px;
 	line-height: 13px;
+	font-size: 11px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -524,8 +524,8 @@
 	width: 54px;
 	min-height: 16px;
 	background-color: transparent;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -540,8 +540,8 @@
 	width: 49px;
 	min-height: 3px;
 	background-color: transparent;
-	font-size: 10px;
 	line-height: 12px;
+	font-size: 10px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -633,7 +633,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 1920px;
 	padding-bottom: 189px;
 }
 

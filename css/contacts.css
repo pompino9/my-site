@@ -1,32 +1,32 @@
 .version.contacts /* version checker */
 {
-	color: #000010;
-	background-color: #99B02B;
+	color: #0000F1;
+	background-color: #FB9F7B;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 1920px;
 	min-height: 547.9999999999999px;
 	background-image: none;
 	border-style: none;
@@ -226,7 +226,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 1920px;
 	padding-bottom: 10px;
 }
 

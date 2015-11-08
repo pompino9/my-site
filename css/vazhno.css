@@ -1,32 +1,32 @@
 .version.vazhno /* version checker */
 {
-	color: #000011;
-	background-color: #435F7A;
+	color: #0000FE;
+	background-color: #107B0C;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 1920px;
 	min-height: 5208px;
 	background-image: none;
 	border-style: none;
@@ -154,9 +154,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #E00000;
-	font-size: 14px;
 	line-height: 14px;
+	font-size: 14px;
+	color: #E00000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -245,9 +245,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #E00000;
-	font-size: 14px;
 	line-height: 14px;
+	font-size: 14px;
+	color: #E00000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -342,9 +342,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #E00000;
-	font-size: 14px;
 	line-height: 14px;
+	font-size: 14px;
+	color: #E00000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -390,9 +390,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
-	text-align: justify;
 	line-height: 20px;
+	text-align: justify;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -420,9 +420,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #E00000;
-	font-size: 14px;
 	line-height: 14px;
+	font-size: 14px;
+	color: #E00000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -520,9 +520,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #E00000;
-	font-size: 14px;
 	line-height: 14px;
+	font-size: 14px;
+	color: #E00000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -743,7 +743,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 1920px;
 	padding-bottom: 71px;
 }
 

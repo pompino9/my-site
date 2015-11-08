@@ -1,32 +1,32 @@
 .version.index /* version checker */
 {
-	color: #0000EC;
-	background-color: #F510D1;
+	color: #000014;
+	background-color: #AFFA9A;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 1920px;
 	min-height: 548px;
 	background-image: none;
 	border-style: none;
@@ -104,14 +104,8 @@
 #u196-4
 {
 	z-index: 14;
-	width: 98px;
-	min-height: 21px;
-	background-color: transparent;
-	color: #FEFFF8;
-	font-size: 18px;
-	line-height: 22px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 11px;
@@ -146,14 +140,8 @@
 #u208-4
 {
 	z-index: 18;
-	width: 98px;
-	min-height: 21px;
-	background-color: transparent;
-	color: #FEFFF8;
-	font-size: 18px;
-	line-height: 22px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 12px;
@@ -191,9 +179,9 @@
 	width: 120px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #FEFFF8;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
+	color: #FEFFF8;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -254,14 +242,8 @@
 #u210-4
 {
 	z-index: 26;
-	width: 128px;
-	min-height: 21px;
-	background-color: transparent;
-	color: #FEFFF8;
-	font-size: 16px;
-	line-height: 19px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
@@ -322,14 +304,8 @@
 #u211-4
 {
 	z-index: 30;
-	width: 136px;
-	min-height: 21px;
-	background-color: transparent;
-	color: #FEFFF8;
-	font-size: 18px;
-	line-height: 22px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
@@ -405,7 +381,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 1920px;
 	padding-bottom: 36px;
 }
 

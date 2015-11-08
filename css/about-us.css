@@ -1,32 +1,32 @@
 .version.about_us /* version checker */
 {
-	color: #0000FA;
-	background-color: #6FB6A3;
+	color: #0000F3;
+	background-color: #F86AAF;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 1920px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 1920px;
 	min-height: 977px;
 	background-image: none;
 	border-style: none;
@@ -77,7 +77,6 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	margin-bottom: -691px;
 	margin-right: -10000px;
 	position: relative;
 	padding: 10px 7px 18px;
@@ -416,47 +415,10 @@
 #u335-24
 {
 	z-index: 122;
-	width: 340px;
-	min-height: 150px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	color: #6B6B6B;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
+	display: block;
+	vertical-align: top;
 	margin-left: 20px;
 	position: relative;
-}
-
-#u335
-{
-	font-size: 18px;
-}
-
-#u336
-{
-	float: left;
-	margin-right: 17px;
-}
-
-#u337
-{
-	z-index: 127;
-	width: 150px;
-	height: 92px;
-	background: transparent url("../images/logotip.jpg") no-repeat left top;
-	background-size: contain;
-}
-
-#u335-3,#u335-14
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u335-2,#u335-13
-{
-	font-size: 18px;
-	line-height: 22px;
 }
 
 #u1682
@@ -465,6 +427,7 @@
 	width: 343px;
 	height: 99px;
 	margin-left: 18px;
+	margin-top: 34px;
 	position: relative;
 	background: transparent url("../images/dog2.jpg") no-repeat left top;
 	background-size: cover;
@@ -505,52 +468,27 @@
 	margin: 0px;
 }
 
-#u356-4
+#u356
 {
-	z-index: 151;
+	z-index: 152;
+	height: 20px;
 	width: 180px;
-	min-height: 20px;
-	background-color: transparent;
-	color: #8A0013;
-	line-height: 20px;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3px;
 	left: 9px;
+	background: url("../images/u356.png") no-repeat 0px 0px;
 }
 
-#u355:hover #u356-4
+#u355:hover #u356
 {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 20px;
-	width: 180px;
-	margin: 3px -10000px 0px 0px;
+	background: url("../images/u356-r.png") no-repeat 0px 0px;
 }
 
-#u355.PamphletThumbSelected #u356-4
+#u355.PamphletThumbSelected #u356
 {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 20px;
-	width: 180px;
-	margin: 3px -10000px 0px 0px;
-}
-
-#u355:hover #u356-4 p
-{
-	color: #6B6B6B;
-	visibility: inherit;
-}
-
-#u355.PamphletThumbSelected #u356-4 p
-{
-	color: #8A0013;
-	visibility: inherit;
-	line-height: 1.4;
-	font-weight: bold;
+	background: url("../images/u356-a.png") no-repeat 0px 0px;
 }
 
 #u353
@@ -590,45 +528,22 @@
 	margin: 0px;
 }
 
-#u377-4
+#u377
 {
-	z-index: 156;
+	z-index: 157;
+	height: 17px;
 	width: 156px;
-	min-height: 14px;
-	background-color: transparent;
-	color: #8A0013;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 6px;
 	left: 13px;
+	background: url("../images/u377.png") no-repeat 0px 0px;
 }
 
-#u353:hover #u377-4
+#u353.PamphletThumbSelected #u377
 {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 14px;
-	width: 156px;
-	margin: 6px -10000px 0px 0px;
-}
-
-#u353.PamphletThumbSelected #u377-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 14px;
-	width: 156px;
-	margin: 6px -10000px 0px 0px;
-}
-
-#u353.PamphletThumbSelected #u377-4 p
-{
-	color: #8A0013;
-	visibility: inherit;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	background: url("../images/u377-a.png") no-repeat 0px 0px;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
@@ -692,7 +607,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 1920px;
 	padding-top: 71px;
 	padding-bottom: 10px;
 }
