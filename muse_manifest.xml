@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447015927661">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447017045525">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_______-a.css" crc="523605306" ref="vazhno:contacts:price:send:about-us:on-line:index:photo"/>
-    <file name="vazhno.css" crc="4262492940" ref="vazhno"/>
-    <file name="contacts.css" crc="4059799419" ref="contacts"/>
-    <file name="price.css" crc="102161978" ref="price"/>
+    <file name="vazhno.css" crc="293528061" ref="vazhno"/>
+    <file name="contacts.css" crc="157820539" ref="contacts"/>
+    <file name="price.css" crc="3956851004" ref="price"/>
     <file name="send.css" crc="3961974997" ref="send"/>
     <file name="about-us.css" crc="4093143727" ref="about-us"/>
     <file name="on-line.css" crc="480674155" ref="on-line"/>
-    <file name="index.css" crc="347077274" ref="index"/>
+    <file name="index.css" crc="3788587178" ref="index"/>
     <file name="photo.css" crc="191060131" ref="photo"/>
   </folder>
   <folder name="scripts">
@@ -34,6 +34,9 @@
     <file name="u208-4.png" crc="440815915" ref="index"/>
     <file name="u210-4.png" crc="306740626" ref="index"/>
     <file name="u211-4.png" crc="47266967" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:vazhno:photo"/>
+    <file name="u209.png" crc="425741932" ref="index"/>
+    <file name="u209-r.png" crc="425741932" ref="index"/>
     <file name="vkontaktef-blocking.jpg" crc="3967790209" ref="index"/>
     <file name="mail.png" crc="3851107590" ref="index"/>
     <file name="icon-contakti.png" crc="4058716964" ref="index"/>
@@ -48,23 +51,66 @@
     <file name="iam.jpg" crc="4293767724" seo="true" ref="about-us"/>
     <file name="u335-24.png" crc="329906763" ref="about-us"/>
     <file name="dog2.jpg" crc="4052289267" ref="about-us"/>
-    <file name="blank.gif" crc="4208392903" ref="about-us:photo"/>
     <file name="u356.png" crc="4265726023" ref="about-us"/>
     <file name="u356-r.png" crc="3939921265" ref="about-us"/>
     <file name="u356-a.png" crc="4265726023" ref="about-us"/>
     <file name="u377.png" crc="4185965201" ref="about-us"/>
     <file name="u377-a.png" crc="4185965201" ref="about-us"/>
+    <file name="u497-4.png" crc="4229876158" ref="price"/>
+    <file name="u571-6.png" crc="3774447803" ref="price"/>
+    <file name="u572-5.png" crc="514177933" ref="price"/>
+    <file name="u573-5.png" crc="3827063605" ref="price"/>
+    <file name="u574-5.png" crc="434784582" ref="price"/>
+    <file name="u562-97.png" crc="3907391342" ref="price"/>
+    <file name="u567-88.png" crc="3924216030" ref="price"/>
+    <file name="u568-73.png" crc="285660406" ref="price"/>
+    <file name="u569-76.png" crc="439262165" ref="price"/>
+    <file name="u570-95.png" crc="527473749" ref="price"/>
+    <file name="u575-25.png" crc="3809544531" ref="price"/>
+    <file name="u577-4.png" crc="4059796472" ref="price"/>
+    <file name="u578-23.png" crc="3819864729" ref="price"/>
+    <file name="u579-7.png" crc="4209935869" ref="price"/>
+    <file name="u580-7.png" crc="3987396725" ref="price"/>
+    <file name="u581-5.png" crc="440795075" ref="price"/>
+    <file name="u582-5.png" crc="158715233" ref="price"/>
+    <file name="u583-19.png" crc="370928839" ref="price"/>
     <file name="u600-17.png" crc="36499994" ref="on-line"/>
     <file name="u600-17-r.png" crc="4200762553" ref="on-line"/>
     <file name="u600-17-m.png" crc="480319329" ref="on-line"/>
     <file name="u600-17-fs.png" crc="241018162" ref="on-line"/>
+    <file name="u1459-4.png" crc="52746019" ref="vazhno"/>
+    <file name="u1532.png" crc="3904071064" ref="vazhno"/>
+    <file name="u1532-r.png" crc="128255399" ref="vazhno"/>
+    <file name="u1532-m.png" crc="128255399" ref="vazhno"/>
+    <file name="u1532-a.png" crc="4270222501" ref="vazhno"/>
+    <file name="u1534-27.png" crc="212301002" ref="vazhno"/>
+    <file name="u1538.png" crc="5739546" ref="vazhno"/>
+    <file name="u1538-r.png" crc="4176573295" ref="vazhno"/>
+    <file name="u1538-m.png" crc="4176573295" ref="vazhno"/>
+    <file name="u1538-a.png" crc="515660621" ref="vazhno"/>
+    <file name="u1537-14.png" crc="323468105" ref="vazhno"/>
+    <file name="u1540.png" crc="95563460" ref="vazhno"/>
+    <file name="u1540-r.png" crc="4128537435" ref="vazhno"/>
+    <file name="u1540-m.png" crc="4128537435" ref="vazhno"/>
+    <file name="u1540-a.png" crc="330544561" ref="vazhno"/>
+    <file name="u1545.png" crc="3891402859" ref="vazhno"/>
+    <file name="u1545-r.png" crc="210967549" ref="vazhno"/>
+    <file name="u1545-m.png" crc="210967549" ref="vazhno"/>
+    <file name="u1545-a.png" crc="4052547941" ref="vazhno"/>
+    <file name="u1548-83.png" crc="351441853" ref="vazhno"/>
     <file name="klech.jpg" crc="3922156627" ref="vazhno"/>
+    <file name="u1561.png" crc="4111328389" ref="vazhno"/>
+    <file name="u1561-r.png" crc="330065753" ref="vazhno"/>
+    <file name="u1561-m.png" crc="330065753" ref="vazhno"/>
+    <file name="u1561-a.png" crc="398407790" ref="vazhno"/>
     <file name="23948933.jpg" crc="3890911753" ref="vazhno"/>
     <file name="s67504971.jpg" crc="3786326937" ref="vazhno"/>
     <file name="48271788.jpg" crc="455967684" ref="vazhno"/>
+    <file name="u1566-161.png" crc="3761689330" ref="vazhno"/>
     <file name="demax.jpg" crc="3840680270" ref="vazhno"/>
     <file name="polosa.jpg" crc="68576087" ref="send"/>
     <file name="dog.jpg" crc="14585311" ref="send"/>
+    <file name="u900-4.png" crc="373193127" ref="contacts"/>
     <file name="-hxg6llf72y.jpg" crc="4127077646" seo="true" ref="photo"/>
     <file name="pdpm-kkpm10.jpg" crc="3945942315" seo="true" ref="photo"/>
     <file name="kat3.jpg" crc="311962832" seo="true" ref="photo"/>
@@ -100,12 +146,12 @@
     <file name="kat654x45.jpg" crc="4204108489" seo="true" ref="photo"/>
     <file name="loading.gif" crc="3815509949" ref="photo"/>
   </folder>
-  <file name="index.html" crc="4071845892" seo="true" mt="1447015811328" redirect="true"/>
+  <file name="index.html" crc="130133907" seo="true" mt="1447016572446" redirect="true"/>
   <file name="about-us.html" crc="3897170486" seo="true" mt="1447015811328" redirect="true"/>
-  <file name="price.html" crc="3938896642" seo="true" mt="1447015811328" redirect="true"/>
+  <file name="price.html" crc="4204813002" seo="true" mt="1447016738049" redirect="true"/>
   <file name="on-line.html" crc="224913601" seo="true" mt="1447015811328" redirect="true"/>
-  <file name="vazhno.html" crc="174246238" seo="true" mt="1447015811328" redirect="true"/>
+  <file name="vazhno.html" crc="53541846" seo="true" mt="1447017041064" redirect="true"/>
   <file name="send.html" crc="4116418279" seo="true" mt="1447015811328" redirect="true"/>
-  <file name="contacts.html" crc="4017443807" seo="true" mt="1447015811328" redirect="true"/>
+  <file name="contacts.html" crc="492622253" seo="true" mt="1447016789862" redirect="true"/>
   <file name="photo.html" crc="3943006486" seo="true" mt="1447015811328" redirect="true"/>
 </manifest>

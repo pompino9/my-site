@@ -1,7 +1,7 @@
 .version.contacts /* version checker */
 {
-	color: #0000F1;
-	background-color: #FB9F7B;
+	color: #000009;
+	background-color: #68267B;
 }
 
 @-ms-viewport
@@ -100,12 +100,8 @@
 #u900-4
 {
 	z-index: 9;
-	width: 202px;
-	min-height: 19px;
-	background-color: transparent;
-	color: #8A0013;
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	font-weight: bold;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 4px;
