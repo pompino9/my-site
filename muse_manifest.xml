@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447010939739">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447012562652">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_______-a.css" crc="523605306" ref="contacts:send:index:price:vazhno:on-line:photo:about-us"/>

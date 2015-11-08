@@ -38,6 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
+	min-height: 548px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
