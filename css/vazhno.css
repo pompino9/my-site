@@ -1,7 +1,7 @@
-.version.____________ /* version checker */
+.version.vazhno /* version checker */
 {
-	color: #000019;
-	background-color: #96BAED;
+	color: #0000F2;
+	background-color: #B0E12B;
 }
 
 @-ms-viewport
@@ -154,9 +154,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
-	font-size: 14px;
 	color: #E00000;
+	font-size: 14px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -245,9 +245,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
-	font-size: 14px;
 	color: #E00000;
+	font-size: 14px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -342,9 +342,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
-	font-size: 14px;
 	color: #E00000;
+	font-size: 14px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -390,9 +390,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
-	text-align: justify;
 	color: #000000;
+	text-align: justify;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -420,9 +420,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
-	font-size: 14px;
 	color: #E00000;
+	font-size: 14px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -520,9 +520,9 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	line-height: 14px;
-	font-size: 14px;
 	color: #E00000;
+	font-size: 14px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
 	position: relative;
@@ -700,44 +700,44 @@
 #pu844
 {
 	width: 0.01px;
-	margin: 5117px -10000px -20px 20px;
+	margin: 5166px -10000px -20px 21px;
 }
 
 #u844
 {
 	z-index: 2;
-	width: 95px;
-	height: 100px;
+	width: 94px;
+	height: 97px;
 	margin-right: -10000px;
-	left: 106px;
+	left: 103px;
 }
 
 #u858
 {
 	z-index: 3;
-	width: 66px;
-	height: 78px;
+	width: 68px;
+	height: 82px;
 	margin-right: -10000px;
-	margin-top: 22px;
-	left: 200px;
+	margin-top: 15px;
+	left: 192px;
 }
 
 #u871
 {
 	z-index: 4;
-	width: 113px;
-	height: 111px;
+	width: 122px;
+	height: 102px;
 	margin-right: -10000px;
 }
 
 #u1697
 {
 	z-index: 5;
-	width: 80px;
-	height: 63px;
+	width: 83px;
+	height: 72px;
 	margin-right: -10000px;
-	margin-top: 5130px;
-	left: 295px;
+	margin-top: 5173px;
+	left: 291px;
 }
 
 body
@@ -750,6 +750,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -5116px;
+	margin-bottom: -5166px;
 }
 

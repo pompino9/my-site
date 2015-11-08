@@ -1,103 +1,103 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1446999248252">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447006419621">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_______-a.css" crc="4290275413" ref="контакты:index:о-нас:запись:цена:важно-знать:после-отправки:фото"/>
-    <file name="________.css" crc="4152923836" ref="контакты"/>
-    <file name="index.css" crc="265052877" ref="index"/>
-    <file name="_-___.css" crc="14703123" ref="о-нас"/>
-    <file name="______.css" crc="4067670092" ref="запись"/>
-    <file name="____.css" crc="234950026" ref="цена"/>
-    <file name="_____-_____.css" crc="429308653" ref="важно-знать"/>
-    <file name="_____-________.css" crc="4063807574" ref="после-отправки"/>
-    <file name="____1.css" crc="4012848904" ref="фото"/>
+    <file name="master_______-a.css" crc="4290275413" ref="contacts:send:index:price:vazhno:on-line:photo:about-us"/>
+    <file name="contacts.css" crc="214523119" ref="contacts"/>
+    <file name="send.css" crc="4204465541" ref="send"/>
+    <file name="index.css" crc="470737491" ref="index"/>
+    <file name="price.css" crc="4225537532" ref="price"/>
+    <file name="vazhno.css" crc="4071678251" ref="vazhno"/>
+    <file name="on-line.css" crc="517571656" ref="on-line"/>
+    <file name="photo.css" crc="185794777" ref="photo"/>
+    <file name="about-us.css" crc="4211347714" ref="about-us"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:о-нас:цена:запись:важно-знать:после-отправки:контакты:фото"/>
-    <file name="museutils.js" crc="183364071" ref="index:о-нас:цена:запись:важно-знать:после-отправки:контакты:фото"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:о-нас:важно-знать:после-отправки"/>
-    <file name="pie.js" crc="3827607177" ref="index:о-нас:цена:запись:важно-знать:после-отправки:контакты:фото"/>
-    <file name="jquery.watch.js" crc="71412426" ref="index:о-нас:цена:запись:важно-знать:после-отправки:контакты:фото"/>
-    <file name="webpro.js" crc="3803554875" ref="о-нас:запись:важно-знать:фото"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="о-нас:фото"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="о-нас:фото"/>
-    <file name="touchswipe.js" crc="4038331989" ref="о-нас:фото"/>
-    <file name="form_check.php" crc="277267350" ref="запись"/>
-    <file name="form_throttle.php" crc="3908387251" ref="запись"/>
-    <file name="form_process.php" crc="24249335" ref="запись"/>
-    <file name="form-u592.php" crc="4175020328" ref="запись"/>
-    <file name="musewpdisclosure.js" crc="3993616448" ref="важно-знать"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:price:on-line:vazhno:send:contacts:photo"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:price:on-line:vazhno:send:contacts:photo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:about-us:vazhno:send"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-us:price:on-line:vazhno:send:contacts:photo"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:price:on-line:vazhno:send:contacts:photo"/>
+    <file name="webpro.js" crc="3803554875" ref="about-us:on-line:vazhno:photo"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="about-us:photo"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="about-us:photo"/>
+    <file name="touchswipe.js" crc="4038331989" ref="about-us:photo"/>
+    <file name="form_check.php" crc="277267350" ref="on-line"/>
+    <file name="form_throttle.php" crc="3908387251" ref="on-line"/>
+    <file name="form_process.php" crc="24249335" ref="on-line"/>
+    <file name="form-u592.php" crc="475641003" ref="on-line"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="vazhno"/>
   </folder>
   <folder name="images">
-    <file name="лого.jpg" crc="3867142660" ref="index:о-нас"/>
+    <file name="лого.jpg" crc="3867142660" ref="index:about-us"/>
     <file name="1236.jpg" crc="4037932235" ref="index"/>
     <file name="vkontaktef-blocking.jpg" crc="3967790209" ref="index"/>
-    <file name="почта.png" crc="4029263681" ref="index"/>
-    <file name="icon-contakti.png" crc="384138747" ref="index"/>
-    <file name="w256h2561339870780ie.png" crc="265042844" ref="index"/>
-    <file name="снимок.jpg" crc="4155421749" seo="true" ref="о-нас"/>
-    <file name="petuhova.jpg" crc="4254907911" seo="true" ref="о-нас"/>
-    <file name="timakina.jpg" crc="4094386616" seo="true" ref="о-нас"/>
-    <file name="grineva.jpg" crc="173519604" seo="true" ref="о-нас"/>
-    <file name="orlova.jpg" crc="374604258" seo="true" ref="о-нас"/>
-    <file name="esinovskaya.jpg" crc="3925444358" seo="true" ref="о-нас"/>
-    <file name="forshakova.jpg" crc="369662972" seo="true" ref="о-нас"/>
-    <file name="я.jpg" crc="4293767724" seo="true" ref="о-нас"/>
-    <file name="снимок2.jpg" crc="4052289267" ref="о-нас"/>
-    <file name="u600-17.png" crc="36499994" ref="запись"/>
-    <file name="u600-17-r.png" crc="4200762553" ref="запись"/>
-    <file name="u600-17-m.png" crc="480319329" ref="запись"/>
-    <file name="u600-17-fs.png" crc="241018162" ref="запись"/>
-    <file name="клещ.jpg" crc="3922156627" ref="важно-знать"/>
-    <file name="23948933.jpg" crc="3890911753" ref="важно-знать"/>
-    <file name="s67504971.jpg" crc="3786326937" ref="важно-знать"/>
-    <file name="48271788.jpg" crc="455967684" ref="важно-знать"/>
-    <file name="демадек.jpg" crc="3840680270" ref="важно-знать"/>
-    <file name="полоска.jpg" crc="68576087" ref="после-отправки"/>
-    <file name="собак.jpg" crc="14585311" ref="после-отправки"/>
-    <file name="-hxg6llf72y.jpg" crc="4127077646" seo="true" ref="фото"/>
-    <file name="blank.gif" crc="4208392903" ref="фото"/>
-    <file name="pdpm-kkpm10.jpg" crc="3945942315" seo="true" ref="фото"/>
-    <file name="элла креатив.jpg" crc="404841288" seo="true" ref="фото"/>
-    <file name="шпиц4.jpg" crc="533116974" seo="true" ref="фото"/>
-    <file name="шпиц3.jpg" crc="3949181940" seo="true" ref="фото"/>
-    <file name="шпиц.jpg" crc="319337903" seo="true" ref="фото"/>
-    <file name="шитсу.jpg" crc="4006685767" seo="true" ref="фото"/>
-    <file name="цверг2.jpg" crc="4199218809" seo="true" ref="фото"/>
-    <file name="фокс.jpg" crc="487877033" seo="true" ref="фото"/>
-    <file name="такса2.jpg" crc="452383569" seo="true" ref="фото"/>
-    <file name="спаниель4.jpg" crc="3784296563" seo="true" ref="фото"/>
-    <file name="спаниель3.jpg" crc="3804721899" seo="true" ref="фото"/>
-    <file name="спаниель2.jpg" crc="153926872" seo="true" ref="фото"/>
-    <file name="пудель континенталь.jpg" crc="4123257758" seo="true" ref="фото"/>
-    <file name="кошка2.jpg" crc="4150263058" seo="true" ref="фото"/>
-    <file name="креатив6.jpg" crc="401092187" seo="true" ref="фото"/>
-    <file name="йорк53.jpg" crc="387706139" seo="true" ref="фото"/>
-    <file name="йорк48.jpg" crc="3878187166" seo="true" ref="фото"/>
-    <file name="йорк47анаб.jpg" crc="4147732831" seo="true" ref="фото"/>
-    <file name="йорк39.jpg" crc="3774247871" seo="true" ref="фото"/>
-    <file name="йорк38.jpg" crc="190928157" seo="true" ref="фото"/>
-    <file name="йорк29.jpg" crc="498759167" seo="true" ref="фото"/>
-    <file name="йорк24.jpg" crc="193762295" seo="true" ref="фото"/>
-    <file name="йорк10238x284.jpg" crc="507807997" seo="true" ref="фото"/>
-    <file name="зубы.jpg" crc="137518116" seo="true" ref="фото"/>
-    <file name="5yh4_ytxztk.jpg" crc="507778848" seo="true" ref="фото"/>
-    <file name="йорк9.jpg" crc="4114707093" seo="true" ref="фото"/>
-    <file name="грифон.jpg" crc="382068889" seo="true" ref="фото"/>
-    <file name="йорк10.jpg" crc="3891237037" ref="фото"/>
-    <file name="-hxg6llf72y60x45.jpg" crc="3979622559" seo="true" ref="фото"/>
-    <file name="pdpm-kkpm1045x45.jpg" crc="3778101885" seo="true" ref="фото"/>
-    <file name="спаниель245x45.jpg" crc="318259420" seo="true" ref="фото"/>
-    <file name="кошка262x45.jpg" crc="68580324" seo="true" ref="фото"/>
-    <file name="креатив654x45.jpg" crc="139883271" seo="true" ref="фото"/>
-    <file name="йорк1038x45.jpg" crc="4185788390" seo="true" ref="фото"/>
-    <file name="loading.gif" crc="3815509949" ref="фото"/>
+    <file name="почта.png" crc="3851107590" ref="index"/>
+    <file name="icon-contakti.png" crc="4058716964" ref="index"/>
+    <file name="w256h2561339870780ie.png" crc="514775783" ref="index"/>
+    <file name="снимок.jpg" crc="4155421749" seo="true" ref="about-us"/>
+    <file name="petuhova.jpg" crc="4254907911" seo="true" ref="about-us"/>
+    <file name="timakina.jpg" crc="4094386616" seo="true" ref="about-us"/>
+    <file name="grineva.jpg" crc="173519604" seo="true" ref="about-us"/>
+    <file name="orlova.jpg" crc="374604258" seo="true" ref="about-us"/>
+    <file name="esinovskaya.jpg" crc="3925444358" seo="true" ref="about-us"/>
+    <file name="forshakova.jpg" crc="369662972" seo="true" ref="about-us"/>
+    <file name="я.jpg" crc="4293767724" seo="true" ref="about-us"/>
+    <file name="снимок2.jpg" crc="4052289267" ref="about-us"/>
+    <file name="u600-17.png" crc="36499994" ref="on-line"/>
+    <file name="u600-17-r.png" crc="4200762553" ref="on-line"/>
+    <file name="u600-17-m.png" crc="480319329" ref="on-line"/>
+    <file name="u600-17-fs.png" crc="241018162" ref="on-line"/>
+    <file name="клещ.jpg" crc="3922156627" ref="vazhno"/>
+    <file name="23948933.jpg" crc="3890911753" ref="vazhno"/>
+    <file name="s67504971.jpg" crc="3786326937" ref="vazhno"/>
+    <file name="48271788.jpg" crc="455967684" ref="vazhno"/>
+    <file name="демадек.jpg" crc="3840680270" ref="vazhno"/>
+    <file name="полоска.jpg" crc="68576087" ref="send"/>
+    <file name="собак.jpg" crc="14585311" ref="send"/>
+    <file name="-hxg6llf72y.jpg" crc="4127077646" seo="true" ref="photo"/>
+    <file name="blank.gif" crc="4208392903" ref="photo"/>
+    <file name="pdpm-kkpm10.jpg" crc="3945942315" seo="true" ref="photo"/>
+    <file name="элла креатив.jpg" crc="404841288" seo="true" ref="photo"/>
+    <file name="шпиц4.jpg" crc="533116974" seo="true" ref="photo"/>
+    <file name="шпиц3.jpg" crc="3949181940" seo="true" ref="photo"/>
+    <file name="шпиц.jpg" crc="319337903" seo="true" ref="photo"/>
+    <file name="шитсу.jpg" crc="4006685767" seo="true" ref="photo"/>
+    <file name="цверг2.jpg" crc="4199218809" seo="true" ref="photo"/>
+    <file name="фокс.jpg" crc="487877033" seo="true" ref="photo"/>
+    <file name="такса2.jpg" crc="452383569" seo="true" ref="photo"/>
+    <file name="спаниель4.jpg" crc="3784296563" seo="true" ref="photo"/>
+    <file name="спаниель3.jpg" crc="3804721899" seo="true" ref="photo"/>
+    <file name="спаниель2.jpg" crc="153926872" seo="true" ref="photo"/>
+    <file name="пудель континенталь.jpg" crc="4123257758" seo="true" ref="photo"/>
+    <file name="кошка2.jpg" crc="4150263058" seo="true" ref="photo"/>
+    <file name="креатив6.jpg" crc="401092187" seo="true" ref="photo"/>
+    <file name="йорк53.jpg" crc="387706139" seo="true" ref="photo"/>
+    <file name="йорк48.jpg" crc="3878187166" seo="true" ref="photo"/>
+    <file name="йорк47анаб.jpg" crc="4147732831" seo="true" ref="photo"/>
+    <file name="йорк39.jpg" crc="3774247871" seo="true" ref="photo"/>
+    <file name="йорк38.jpg" crc="190928157" seo="true" ref="photo"/>
+    <file name="йорк29.jpg" crc="498759167" seo="true" ref="photo"/>
+    <file name="йорк24.jpg" crc="193762295" seo="true" ref="photo"/>
+    <file name="йорк10238x284.jpg" crc="507807997" seo="true" ref="photo"/>
+    <file name="зубы.jpg" crc="137518116" seo="true" ref="photo"/>
+    <file name="5yh4_ytxztk.jpg" crc="507778848" seo="true" ref="photo"/>
+    <file name="йорк9.jpg" crc="4114707093" seo="true" ref="photo"/>
+    <file name="грифон.jpg" crc="382068889" seo="true" ref="photo"/>
+    <file name="йорк10.jpg" crc="3891237037" ref="photo"/>
+    <file name="-hxg6llf72y60x45.jpg" crc="3979622559" seo="true" ref="photo"/>
+    <file name="pdpm-kkpm1045x45.jpg" crc="3778101885" seo="true" ref="photo"/>
+    <file name="спаниель245x45.jpg" crc="318259420" seo="true" ref="photo"/>
+    <file name="кошка262x45.jpg" crc="68580324" seo="true" ref="photo"/>
+    <file name="креатив654x45.jpg" crc="139883271" seo="true" ref="photo"/>
+    <file name="йорк1038x45.jpg" crc="4185788390" seo="true" ref="photo"/>
+    <file name="loading.gif" crc="3815509949" ref="photo"/>
   </folder>
-  <file name="index.html" crc="313043353" seo="true" mt="1446999244507" redirect="true"/>
-  <file name="о-нас.html" crc="3952083122" seo="true" mt="1446999244507" redirect="true"/>
-  <file name="цена.html" crc="500093778" seo="true" mt="1446999244507" redirect="true"/>
-  <file name="запись.html" crc="3766522447" seo="true" mt="1446999244507" redirect="true"/>
-  <file name="важно-знать.html" crc="296968244" seo="true" mt="1446999244507" redirect="true"/>
-  <file name="после-отправки.html" crc="3787389623" seo="true" mt="1446999244507" redirect="true"/>
-  <file name="контакты.html" crc="4280668828" seo="true" mt="1446999244507" redirect="true"/>
-  <file name="фото.html" crc="430351694" seo="true" mt="1446999244507" redirect="true"/>
+  <file name="index.html" crc="81882106" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="about-us.html" crc="13908067" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="price.html" crc="263067705" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="on-line.html" crc="9980513" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="vazhno.html" crc="4086714678" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="send.html" crc="3842056046" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="contacts.html" crc="4166055412" seo="true" mt="1447006416587" redirect="true"/>
+  <file name="photo.html" crc="3971944637" seo="true" mt="1447006416587" redirect="true"/>
 </manifest>

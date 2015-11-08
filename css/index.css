@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000F;
-	background-color: #CC62CD;
+	color: #00001C;
+	background-color: #0EE253;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 570px;
+	min-height: 543px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -107,9 +107,9 @@
 	width: 98px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
 	color: #FEFFF8;
+	font-size: 18px;
+	line-height: 22px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -149,9 +149,9 @@
 	width: 98px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
 	color: #FEFFF8;
+	font-size: 18px;
+	line-height: 22px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -191,9 +191,9 @@
 	width: 120px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
 	color: #FEFFF8;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -257,9 +257,9 @@
 	width: 128px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
 	color: #FEFFF8;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -325,9 +325,9 @@
 	width: 136px;
 	min-height: 21px;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
 	color: #FEFFF8;
+	font-size: 18px;
+	line-height: 22px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	position: relative;
@@ -339,47 +339,47 @@
 #pu844
 {
 	width: 0.01px;
-	margin-top: -23px;
+	margin-top: 25px;
 }
 
 #u844
 {
 	z-index: 2;
-	width: 95px;
-	height: 100px;
+	width: 94px;
+	height: 97px;
 	margin-right: -10000px;
-	margin-top: 2px;
-	left: 126px;
+	margin-top: 15px;
+	left: 124px;
 }
 
 #u858
 {
 	z-index: 3;
-	width: 66px;
-	height: 78px;
+	width: 68px;
+	height: 82px;
 	margin-right: -10000px;
-	margin-top: 24px;
-	left: 220px;
+	margin-top: 30px;
+	left: 213px;
 }
 
 #u871
 {
 	z-index: 4;
-	width: 113px;
-	height: 111px;
+	width: 122px;
+	height: 102px;
 	margin-right: -10000px;
-	margin-top: 2px;
-	left: 20px;
+	margin-top: 15px;
+	left: 21px;
 }
 
 #u1697
 {
 	z-index: 5;
-	width: 80px;
-	height: 63px;
+	width: 83px;
+	height: 72px;
 	margin-right: -10000px;
-	margin-top: 15px;
-	left: 295px;
+	margin-top: 22px;
+	left: 291px;
 }
 
 #u188
@@ -406,6 +406,7 @@ body
 {
 	position: relative;
 	min-width: 380px;
+	padding-bottom: 36px;
 }
 
 #page .verticalspacer

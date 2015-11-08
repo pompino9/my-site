@@ -1,7 +1,7 @@
-.version._______ /* version checker */
+.version.on_line /* version checker */
 {
-	color: #0000F2;
-	background-color: #73B84C;
+	color: #00001E;
+	background-color: #D98448;
 }
 
 @-ms-viewport
@@ -33,7 +33,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 570px;
+	min-height: 543px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -140,9 +140,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -159,8 +159,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
@@ -262,9 +262,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
-	font-size: 12px;
 	color: #FF0000;
+	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -291,9 +291,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 12px;
-	font-size: 12px;
 	color: #00FF00;
+	font-size: 12px;
+	line-height: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -377,9 +377,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -396,8 +396,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
@@ -502,9 +502,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -520,8 +520,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
@@ -628,9 +628,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -663,8 +663,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;
@@ -775,44 +775,44 @@
 #pu844
 {
 	width: 0.01px;
-	margin: 479px -10000px -20px 20px;
+	margin: 479px -10000px -21px 21px;
 }
 
 #u844
 {
 	z-index: 2;
-	width: 95px;
-	height: 100px;
+	width: 94px;
+	height: 97px;
 	margin-right: -10000px;
-	left: 106px;
+	left: 103px;
 }
 
 #u858
 {
 	z-index: 3;
-	width: 66px;
-	height: 78px;
+	width: 68px;
+	height: 82px;
 	margin-right: -10000px;
-	margin-top: 22px;
-	left: 200px;
+	margin-top: 15px;
+	left: 192px;
 }
 
 #u871
 {
 	z-index: 4;
-	width: 113px;
-	height: 111px;
+	width: 122px;
+	height: 102px;
 	margin-right: -10000px;
 }
 
 #u1697
 {
 	z-index: 5;
-	width: 80px;
-	height: 63px;
+	width: 83px;
+	height: 72px;
 	margin-right: -10000px;
-	margin-top: 492px;
-	left: 295px;
+	margin-top: 485px;
+	left: 291px;
 }
 
 body

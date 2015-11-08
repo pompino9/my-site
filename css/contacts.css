@@ -1,7 +1,7 @@
-.version._________ /* version checker */
+.version.contacts /* version checker */
 {
-	color: #0000F7;
-	background-color: #8896BC;
+	color: #00000C;
+	background-color: #C95CEF;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.9999999999999px;
+	min-height: 542.9999999999999px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -48,7 +48,7 @@
 
 #page_position_content
 {
-	margin-bottom: -20px;
+	margin-bottom: -21px;
 	padding-top: 8px;
 	width: 0.01px;
 }
@@ -182,45 +182,45 @@
 #pu844
 {
 	width: 0.01px;
-	margin-left: 20px;
-	margin-top: -22px;
+	margin-left: 21px;
+	margin-top: 40px;
 }
 
 #u844
 {
 	z-index: 2;
-	width: 95px;
-	height: 100px;
+	width: 94px;
+	height: 97px;
 	margin-right: -10000px;
-	left: 106px;
+	left: 103px;
 }
 
 #u858
 {
 	z-index: 3;
-	width: 66px;
-	height: 78px;
+	width: 68px;
+	height: 82px;
 	margin-right: -10000px;
-	margin-top: 22px;
-	left: 200px;
+	margin-top: 15px;
+	left: 192px;
 }
 
 #u871
 {
 	z-index: 4;
-	width: 113px;
-	height: 111px;
+	width: 122px;
+	height: 102px;
 	margin-right: -10000px;
 }
 
 #u1697
 {
 	z-index: 5;
-	width: 80px;
-	height: 63px;
+	width: 83px;
+	height: 72px;
 	margin-right: -10000px;
-	margin-top: 13px;
-	left: 275px;
+	margin-top: 6px;
+	left: 270px;
 }
 
 body
