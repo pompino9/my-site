@@ -1,7 +1,7 @@
 .version.photo /* version checker */
 {
-	color: #000011;
-	background-color: #1C2025;
+	color: #000017;
+	background-color: #05BEE0;
 }
 
 @-ms-viewport
@@ -48,7 +48,6 @@
 #pu918
 {
 	width: 0.01px;
-	padding-bottom: 1px;
 	margin-right: -10000px;
 	margin-top: 18px;
 	margin-left: 9px;
@@ -96,7 +95,7 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #8A0013;
-	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
@@ -108,8 +107,8 @@
 {
 	z-index: 12;
 	width: 0.01px;
-	height: 822px;
-	margin-top: 68px;
+	height: 843px;
+	margin-top: 66px;
 	position: relative;
 }
 
@@ -618,8 +617,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	padding-bottom: 93px;
-	top: 354px;
-	left: 9px;
+	top: 375px;
 }
 
 #u924popup
@@ -1793,7 +1791,7 @@
 #pu844
 {
 	width: 0.01px;
-	margin: 974px -10000px -15px 21px;
+	margin: 993px -10000px -16px 21px;
 }
 
 #u844
@@ -1829,7 +1827,7 @@
 	width: 83px;
 	height: 72px;
 	margin-right: -10000px;
-	margin-top: 981px;
+	margin-top: 999px;
 	left: 291px;
 }
 
@@ -1843,6 +1841,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -974px;
+	margin-bottom: -992px;
 }
 

@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447104622275">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="false" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1447106169440">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_______-a.css" crc="523605306" ref="vazhno:send:index:about-us:contacts:photo:price:on-line"/>
     <file name="vazhno.css" crc="481669482" ref="vazhno"/>
     <file name="send.css" crc="333594419" ref="send"/>
-    <file name="index.css" crc="4018109548" ref="index"/>
+    <file name="index.css" crc="476745716" ref="index"/>
     <file name="about-us.css" crc="4053196753" ref="about-us"/>
     <file name="contacts.css" crc="67261501" ref="contacts"/>
-    <file name="photo.css" crc="287055909" ref="photo"/>
+    <file name="photo.css" crc="386252512" ref="photo"/>
     <file name="price.css" crc="4200733895" ref="price"/>
     <file name="on-line.css" crc="81075140" ref="on-line"/>
   </folder>
@@ -163,12 +163,12 @@
     <file name="kat654x45.jpg" crc="4204108489" seo="true" ref="photo"/>
     <file name="loading.gif" crc="3815509949" ref="photo"/>
   </folder>
-  <file name="index.html" crc="130133907" seo="true" mt="1447104347020" redirect="true"/>
-  <file name="about-us.html" crc="534973452" seo="true" mt="1447104248066" redirect="true"/>
-  <file name="price.html" crc="4272225279" seo="true" mt="1447104248066" redirect="true"/>
-  <file name="on-line.html" crc="3998146409" seo="true" mt="1447104599145" redirect="true"/>
-  <file name="vazhno.html" crc="53541846" seo="true" mt="1447104620421" redirect="true"/>
-  <file name="send.html" crc="4116418279" seo="true" mt="1447104248066" redirect="true"/>
-  <file name="contacts.html" crc="492622253" seo="true" mt="1447104248066" redirect="true"/>
-  <file name="photo.html" crc="3943006486" seo="true" mt="1447104248066" redirect="true"/>
+  <file name="index.html" crc="534143023" seo="true" mt="1447106085907" redirect="true"/>
+  <file name="about-us.html" crc="4014260921" seo="true" mt="1447106085907" redirect="true"/>
+  <file name="price.html" crc="300539230" seo="true" mt="1447106085907" redirect="true"/>
+  <file name="on-line.html" crc="4159381046" seo="true" mt="1447106085907" redirect="true"/>
+  <file name="vazhno.html" crc="3768476752" seo="true" mt="1447106167698" redirect="true"/>
+  <file name="send.html" crc="4253853628" seo="true" mt="1447106085907" redirect="true"/>
+  <file name="contacts.html" crc="152220861" seo="true" mt="1447106085907" redirect="true"/>
+  <file name="photo.html" crc="6796506" seo="true" mt="1447106085907" redirect="true"/>
 </manifest>
