@@ -1,7 +1,7 @@
 .version.vazhno /* version checker */
 {
-	color: #000011;
-	background-color: #7EE1FD;
+	color: #00001C;
+	background-color: #B5B16A;
 }
 
 @-ms-viewport
@@ -48,9 +48,8 @@
 #ppu1458
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: 14px;
 	margin-left: 3px;
 }
 
@@ -74,7 +73,7 @@
 	padding-bottom: 2px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
+	margin-top: 4px;
 }
 
 #u1458::before
@@ -95,7 +94,7 @@
 	background-color: #FFD2C2;
 	width: 173px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 4px -10000px 0px 0px;
 }
 
 #u1459-4
@@ -112,10 +111,10 @@
 #u1662
 {
 	z-index: 6;
-	width: 150px;
-	height: 83px;
+	width: 176px;
+	height: 86px;
 	margin-right: -10000px;
-	left: 193px;
+	left: 179px;
 }
 
 #accordionu1530
@@ -126,7 +125,7 @@
 	border-style: solid;
 	border-color: #7F7F7F;
 	background-color: transparent;
-	margin-top: 10px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -305,9 +304,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 20px;
-	text-align: justify;
 	color: #000000;
+	text-align: justify;
+	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

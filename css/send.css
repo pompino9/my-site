@@ -1,7 +1,7 @@
 .version.send /* version checker */
 {
-	color: #0000EC;
-	background-color: #26F0D5;
+	color: #000013;
+	background-color: #E23F33;
 }
 
 @-ms-viewport
@@ -56,10 +56,10 @@
 #u1662
 {
 	z-index: 6;
-	width: 150px;
-	height: 83px;
-	margin-left: 220px;
-	margin-top: 77px;
+	width: 176px;
+	height: 86px;
+	margin-left: 206px;
+	margin-top: 83px;
 }
 
 #u767-6
@@ -69,14 +69,14 @@
 	min-height: 105px;
 	background-color: transparent;
 	border-radius: 10px 10px 0px 10px ;
-	line-height: 29px;
-	text-align: center;
-	font-size: 24px;
 	color: #FF3E18;
+	font-size: 24px;
+	text-align: center;
+	line-height: 29px;
 	font-family: Comic Sans, Comic Sans MS, cursive;
 	font-weight: bold;
 	margin-left: 39px;
-	margin-top: 59px;
+	margin-top: 50px;
 	position: relative;
 }
 

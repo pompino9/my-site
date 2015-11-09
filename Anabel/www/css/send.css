@@ -1,0 +1,169 @@
+.version.send /* version checker */
+{
+	color: #0000EC;
+	background-color: #26F0D5;
+}
+
+@-ms-viewport
+{
+	width: 1920px;
+}
+
+@-webkit-viewport
+{
+	width: 1920px;
+}
+
+@-o-viewport
+{
+	width: 1920px;
+}
+
+@-moz-viewport
+{
+	width: 1920px;
+}
+
+@viewport
+{
+	width: 1920px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1920px;
+	min-height: 547.9500000000008px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-top: -69px;
+	margin-bottom: -16px;
+	width: 0.01px;
+}
+
+#u1662
+{
+	z-index: 6;
+	width: 150px;
+	height: 83px;
+	margin-left: 220px;
+	margin-top: 77px;
+}
+
+#u767-6
+{
+	z-index: 9;
+	width: 317px;
+	min-height: 105px;
+	background-color: transparent;
+	border-radius: 10px 10px 0px 10px ;
+	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #FF3E18;
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	font-weight: bold;
+	margin-left: 39px;
+	margin-top: 59px;
+	position: relative;
+}
+
+#pu844
+{
+	width: 0.01px;
+	margin-top: -324px;
+}
+
+#u844
+{
+	z-index: 2;
+	width: 94px;
+	height: 97px;
+	margin-right: -10000px;
+	margin-top: 531px;
+	left: 124px;
+}
+
+#u858
+{
+	z-index: 3;
+	width: 68px;
+	height: 82px;
+	margin-right: -10000px;
+	margin-top: 546px;
+	left: 213px;
+}
+
+#u871
+{
+	z-index: 4;
+	width: 122px;
+	height: 102px;
+	margin-right: -10000px;
+	margin-top: 531px;
+	left: 21px;
+}
+
+#u1697
+{
+	z-index: 5;
+	width: 83px;
+	height: 72px;
+	margin-right: -10000px;
+	margin-top: 537px;
+	left: 291px;
+}
+
+#u818
+{
+	z-index: 7;
+	height: 500px;
+	background: transparent url("../images/polosa.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u818-bw
+{
+	z-index: 7;
+	height: 500px;
+}
+
+#u829
+{
+	z-index: 8;
+	height: 267px;
+	background: transparent url("../images/dog.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u829-bw
+{
+	z-index: 8;
+	margin-top: 280px;
+	height: 267px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1920px;
+	padding-bottom: 10px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
